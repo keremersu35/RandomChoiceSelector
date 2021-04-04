@@ -7,4 +7,4 @@ You can reach the site here: https://keremersu35.github.io/RandomChoiceSelector/
 
 <img src="ss_rand/1.png">
 <img src="ss_rand/2.png">
-
+<img src="ss_rand/3.png">
